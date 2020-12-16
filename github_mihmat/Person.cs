@@ -6,5 +6,6 @@ namespace github_mihmat
 {
     class Person
     {
+        public int MyProperty { get; set; }
     }
 }
