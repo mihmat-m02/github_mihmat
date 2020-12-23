@@ -8,8 +8,8 @@ namespace github_mihmat
     {
         public Person(string fn, string ln)
         {
-            Firstname = fn;
-            Lastname = ln;
+            Firstname = firstname;
+            Lastname = lastname;
         }
 
         public string Firstname { get; set; }
