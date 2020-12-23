@@ -6,7 +6,8 @@ namespace github_mihmat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World   anton");
+            Console.WriteLine("Hello World anton");
+            Console.WriteLine("5");
         }
     }
 }
