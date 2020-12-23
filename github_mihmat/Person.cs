@@ -12,8 +12,8 @@ namespace github_mihmat
             Lastname = ln;
         }
 
-        public string Firstname { get; set; }
-        public string Lastname { get; set; }
+        public string Firstname { get; internal set; }
+        public string Lastname { get; internal set; }
 
     }
 }
