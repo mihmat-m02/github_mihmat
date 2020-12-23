@@ -6,7 +6,7 @@ namespace github_mihmat
 {
     class Person
     {
-        public Person(string fn, string ln)
+        public Person(string firstname, string lastname)
         {
             Firstname = firstname;
             Lastname = lastname;
