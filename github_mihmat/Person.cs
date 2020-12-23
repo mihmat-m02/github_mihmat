@@ -6,10 +6,10 @@ namespace github_mihmat
 {
     class Person
     {
-        public Person(string firstn, string lastn)
+        public Person(string fn, string ln)
         {
-            Firstname = firstn;
-            Lastname = lastn;
+            Firstname = fn;
+            Lastname = ln;
         }
 
         public string Firstname { get; set; }
